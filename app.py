@@ -1,4 +1,5 @@
-
+#Made by Georgiy Mintenko(Github:Georgiy123456)
+#04.11.2020
 import telebot
 from covid import Covid
 from telebot import types
