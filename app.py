@@ -1,9 +1,9 @@
-#1375783906:AAHCQISssg50-vrcqxG4SdjIixxXMTA9hL0
+
 import telebot
 from covid import Covid
 from telebot import types
 
-bot = telebot.TeleBot("1375783906:AAHCQISssg50-vrcqxG4SdjIixxXMTA9hL0")
+bot = telebot.TeleBot("API_KEY")
 covid = Covid()
 
 
