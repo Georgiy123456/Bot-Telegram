@@ -1,4 +1,4 @@
-#Made by Georgiy Mintenko(Github:Georgiy123456)
+#Made by Georgiy Mintenko(Github:iamgeorgiy)
 #04.11.2020
 import telebot
 from covid import Covid
